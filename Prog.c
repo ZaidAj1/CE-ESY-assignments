@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdbool.h>
 
-#define size_Buffer 9
+#define size_Buffer 11
 
 struct CircularBuffer
 {
